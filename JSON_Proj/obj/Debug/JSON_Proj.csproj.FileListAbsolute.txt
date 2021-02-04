@@ -1,0 +1,13 @@
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.csprojAssemblyReference.cache
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.Form1.resources
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.Properties.Resources.resources
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.csproj.GenerateResource.cache
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.csproj.CoreCompileInputs.cache
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\bin\Debug\JSON_Proj.exe.config
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\bin\Debug\JSON_Proj.exe
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\bin\Debug\JSON_Proj.pdb
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.csproj.CopyComplete
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.exe
+C:\Users\iell\source\repos\JSON_Proj\JSON_Proj\obj\Debug\JSON_Proj.pdb
