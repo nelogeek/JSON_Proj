@@ -33,11 +33,11 @@ namespace JSON_Proj
             string filename = openFileDialog1.FileName;
             string fileText = System.IO.File.ReadAllText(filename);
 
-            
-            textBox1.Text = fileText.ToString();
 
-            Keys keys = JsonConvert.DeserializeObject<Keys>("@{fileText}");
-            textBox1.Text = keys.Key;
+
+            DataSet dataSet = JsonConvert.DeserializeObject<DataSet>(fileText[0].ToString());
+            textBox1.Text = typeof(DataSet).ToString();
+            
 
         }
         
